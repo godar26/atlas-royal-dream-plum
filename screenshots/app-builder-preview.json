@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Briefing Esports CODM",
+      "hasCanvas": false,
+      "bodyTextLen": 13748,
+      "bodyTextHash": "81c12f64abc30dfa95d764755f0aa488c39e6adcf4a41124dc6341adf77cd02b",
+      "bodyTextPrefix": "BRIEFING CODM TÉLÉCHARGER LE PDF BRIEFING RÉGLAGES MAPS VETO CLA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Briefing Esports CODM",
+      "hasCanvas": false,
+      "bodyTextLen": 13748,
+      "bodyTextHash": "81c12f64abc30dfa95d764755f0aa488c39e6adcf4a41124dc6341adf77cd02b",
+      "bodyTextPrefix": "BRIEFING CODM TÉLÉCHARGER LE PDF BRIEFING RÉGLAGES MAPS VETO CLA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
